@@ -1,0 +1,243 @@
+h1{	text-align: center;
+	color:white;
+	background-color:black;
+	padding-left: 60px
+	margin-left:40px;
+	font-size: 50px;
+	font-family: 'Black Han Sans', sans-serif;
+	}
+
+h5{	text-align: center;
+	color:red;
+	padding-left: 60px
+	margin-left:40px;
+	font-size: 15px;
+	}
+
+h6{	text-align: center;
+	color:red;
+	padding-left: 60px
+	margin-left:40px;
+	font-size: 15px;
+	}
+
+address{
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		height: 580px !important;  
+		/*border: 1px red solid;*/
+		/*padding:2%;*/
+		/*border-radius: 10px;*/
+		/*background-color: yellow;*/
+		/*color:44F60B;*/
+		background-color: green !important;
+		}
+
+
+article{
+	margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		/*padding: 50px;
+		margin:50px;*/
+		/*padding-top: 5%;*/
+		/*padding-bottom: 5%;*/			
+		/*margin-top: 20px;*/
+		/*margin-bottom: 20px;*/
+		margin-left: 5%;				
+		margin-right: 5%;				
+		font-size: 20px;				
+		clear: both;					
+		/*background-color: #81F7D8;*/
+		/*background-color: green !important;*/
+		background-color: yellow; 
+
+		}
+
+address{
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		height: 580px !important;  
+		/*border: 1px red solid;*/
+		/*padding:2%;*/
+		/*border-radius: 10px;*/
+		/*background-color: yellow;*/
+		/*color:44F60B;*/
+		background-color: green !important;
+		}
+
+address div ul li p { 
+	text-align:left !important;
+	font-size: 35px !important;
+	color:black!important;
+	}
+			
+div div ul li b {color:#000000!important;}
+
+p{	font-size: 25px;
+	font-family: 'Roboto Slab', serif;
+	}
+
+b {	color:orange;
+	background: black;
+	}
+
+body{background:green !important;
+	margin: 0;}
+	
+
+img{width: 30px;
+	height: 30px;
+	background: black;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding:5px;
+	border-radius: 5px;
+	}
+
+a{	text-decoration: none !important;
+	color: #0000FF !important;          /*Color del link*/ /*#0A18B2*/
+	color:#00008B;
+	}
+
+article{background: #B0C4DE;}
+
+footer{	margin-top:50;
+		width: 100%;
+		height: 200px;
+		padding: 30px;
+		background: black;
+		font-family: 'Black Han Sans', sans-serif;
+		font-size:18px;
+		}
+
+
+article div{ 	
+font-size: 24px!important;
+width: 100%!important;
+margin-bottom: 20px!important;
+
+}
+
+article div ul li p { 
+	text-align:left !important;
+	font-size: 35px !important;
+	color:black!important;
+}
+			
+div div ul li b {color:#000000!important;}
+		
+/*ID`S*/
+#datos-personales{list-style: none;}
+
+nav{float: none !important ;
+	background: green !important;
+	cursor: pointer !important;
+}
+
+#primer_item{list-style: none !important;}
+#segundo_item{list-style: none !important;}
+#tercer_item{list-style: none !important;}
+#cuarto_item{list-style: none !important;}
+#quinto_item{list-style: none !important;} /*PRIMERA LINEA DEL FOOTER*/
+#sexto_item{list-style: none !important;} /*SEGUNDA LINEA DEL FOOTER*/
+#septimo_item{list-style: none !important;} /*TERCER LINEA DEL FOOTER*/
+#octavo_item{list-style: none !important;}  /*CUARTA LINEA DEL FOOTER*/
+#noveno_item{list-style: none !important;} /*QUINTA LINEA DEL FOOTER*/
+#desimo_item{list-style: none !important;}  /*SACA LOS ASTERISCOS A REDES SOCIALES DE COMIT*/
+#desimoprimero_item{list-style: none !important;}        /*SACA LOS AASTERIOSCOS DE TELECOM LOGO*/
+#desimosegundo_item{list-style: none !important;} /*SEPTIMA LINEA DEL FOOTER*/
+#desimotercero_item{list-style: none !important;} /*SACA LOS ASTERISCOS A LAS REDES SOCIALES DE TELECOM*/
+#desimocuarto_item{list-style: none !important;}  /*		ADDRESS REDES SOCIALES */
+#logo_facebook{height: 40px!important;}
+#logo_yotube{height: 40px!important;}
+
+
+/*		CLASS	*/
+
+.address{
+	color:44F60B;
+}
+.data_uni{
+color:black !important;
+
+text-decoration: none !important;
+text-align: left !important;
+}
+
+.data_horarios{
+color:black !important;
+
+float: none !important;
+text-align: left !important;
+}
+
+.data_redes{
+color: black !important;
+text-align: left !important;
+}
+
+.estilos_redes{
+text-decoration: none !important;
+/*float:left !important;*/
+text-align: left !important;
+}
+
+
+
+.address{
+	color:44F60B;
+}
+.data_uni{
+color:black !important;
+
+text-decoration: none !important;
+text-align: left !important;
+}
+
+.data_horarios{
+color:black !important;
+
+float: none !important;
+text-align: left !important;
+}
+
+.data_redes{
+color: black !important;
+text-align: left !important;
+}
+
+.estilos_redes{
+text-decoration: none !important;
+/*float:left !important;*/
+text-align: left !important;
+}
+
+.logo_institucional{/*width: 70px;*/	height: 30px;}
+.logo_comit{ width: 100px !important; height: 100px !important;padding-right:20px !important;padding-left: 20px !important; }
+.logo_facebook{width: 30px !important; height: 30px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_instagram{width: 30px !important; height: 30px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_twitter{width: 30px !important; height: 30px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_youtube{width: 30px !important; height: 30px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_linkedin{width: 30px !important; height: 30px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_telecom{width: 100px !important; height: 100px !important; clear: both !important; padding-top: 10px !important;}
+
+.lenguajes{text-align: center;list-style: none;
+
+/* CLASS*/
+.login-box input[type="submit"] {
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #b80f22;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+
+
+
+
+
+
+

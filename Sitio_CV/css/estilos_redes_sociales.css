@@ -1,0 +1,378 @@
+/*h1 {	
+	text-align: center !important;
+	color:#157A31 !important;
+	font-size: 50px  !important;
+	background: linear-gradient(90deg, rgba(232,113,21,1) 0%, rgba(25,43,172,1) 56%, rgba(0,212,255,1) 100%) !important;
+	clear: both !important;
+	margin-left: 50px !important;
+	margin-right: 50px !important;
+	margin-bottom: 20px !important;
+	margin-top: 20px !important;
+	}*/
+
+h1{	text-align: center!important;
+	color:white;
+	background-color:black!important;
+	padding-left: 60px!important;
+	margin-left:40px!important;
+	font-size: 50px!important;
+	font-family: 'Black Han Sans', sans-serif!important;
+	}
+
+/*
+h3{
+	text-align: center;
+	font-size: 20px;
+	color:red;
+	}
+	
+h4{
+	text-align: center;
+	font-size: 20px;
+	color:red;
+	}
+
+h5{	
+	text-orientation: left;
+	color:white;
+	font-size: 50px;
+	}
+
+
+h6{	
+	text-align: center;
+	font-size: 35px;
+	color:red; 
+	}*/
+
+/*nav{background-color: #000000 !important;}*/
+/*body{background: linear-gradient(90deg, rgba(232,113,21,1) 0%, rgba(25,43,172,1) 56%, rgba(0,212,255,1) 100%) !important;}*/
+div p{	line-height: 25px;}
+
+div{line-height: 25px;}
+/*
+article{
+	margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		/*padding: 50px;
+		margin:50px;*/
+		/*padding-top: 5%;*/
+		/*padding-bottom: 5%;*/			
+		/*margin-top: 20px;*/
+		/*margin-bottom: 20px;*
+		margin-left: 5%;				
+		margin-right: 5%;				
+		font-size: 20px;				
+		clear: both;					
+		background-color: #81F7D8;
+		background-color: green !important;
+		background-color: yellow; 
+		}
+*/
+article{background: #B0C4DE;}
+
+address{
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		height: 580px !important;  
+		/*border: 1px red solid;*/
+		/*padding:2%;*/
+		/*border-radius: 10px;*/
+		/*background-color: yellow;*/
+		/*color:44F60B;*/
+		background-color: green !important;
+		}
+/*
+article address {
+background-color: green !important;
+height: 580px !important;
+padding-bottom: 5%!important;
+margin-left: 5%!important;
+margin-right: 5%!important;
+font-size: 20px!important;
+clear: both!important;
+}*/
+
+body{background:green !important;
+	margin: 0;}
+
+footer{	
+	clear: both !important;
+	/*margin-top:50;*/
+	height: 480px !important;
+	/*height: 200px;*/
+	/*border: 1px green solid;*/
+	/*border-radius: 10px;*/
+	padding:2%;
+	background-image: -webkit-linear-gradient(left, red, yellow)!important;
+	background-image: -o-linear-gradient(left, red, yellow)!important;
+	background-image: linear-gradient(to right, red, yellow)!important;
+	}
+
+a{
+	text-decoration: none !important;
+	color: #0000FF   /*COLOR DEL LINK OJO*/
+	}
+
+div{float: none;}
+
+
+div p{line-height: 1.5em !important; color: #000000!important;}
+
+nav{float: none !important ;
+	background: green !important;
+	cursor: pointer !important;
+}
+
+/*
+nav ul li:hover{
+			list-style: none !important;
+			float:left !important;
+			border: 4px solid gray !important;
+			text-orientation: center !important;
+			list-style: none !important;
+			font-family: 'Black Han Sans', sans-serif !important;
+			padding: 1px !important;
+			margin:1px !important;
+			}*/
+
+data-address{
+ 				text-align: left !important;
+ 				font-size: 20px!important;
+ 			}
+
+article div{ 
+	font-size: 24px!important;
+width: 100%!important;
+  
+}
+
+address div ul li p { 
+	text-align:left !important;
+	font-size: 35px !important;
+	color:black!important;
+	}
+			
+div div ul li b {color:#000000!important;}
+footer div div ul li b {color:#000000!important;}
+
+
+
+
+
+/*
+address{
+		/*border: 1px red solid!important;*/
+		/*padding:2%!important;*/
+		/*border-radius: 10px!important;*/
+		/*background-color: yellow!important;*/
+		/*color:44F60B!important;
+		clear: both !important;
+		background-color: green !important;
+		} */
+
+
+h3 h4 h5 h6{text-align: center !important;}
+
+
+
+/*     ID´S     */
+#primer_item{list-style: none !important;}
+#segundo_item{list-style: none !important;}
+#tercer_item{list-style: none !important;}
+#cuarto_item{list-style: none !important;}
+#quinto_item{list-style: none !important;} /*PRIMERA LINEA DEL FOOTER*/
+#sexto_item{list-style: none !important;} /*SEGUNDA LINEA DEL FOOTER*/
+#septimo_item{list-style: none !important;} /*TERCER LINEA DEL FOOTER*/
+#octavo_item{list-style: none !important;}  /*CUARTA LINEA DEL FOOTER*/
+#noveno_item{list-style: none !important;} /*QUINTA LINEA DEL FOOTER*/
+#desimo_item{list-style: none !important;}  /*SACA LOS ASTERISCOS A REDES SOCIALES DE COMIT*/
+#desimoprimero_item{list-style: none !important;}        /*SACA LOS AASTERIOSCOS DE TELECOM LOGO*/
+#desimosegundo_item{list-style: none !important;} /*SEPTIMA LINEA DEL FOOTER*/
+#desimotercero_item{list-style: none !important;} /*SACA LOS ASTERISCOS A LAS REDES SOCIALES DE TELECOM*/
+#desimocuarto_item{list-style: none !important;}  /*		ADDRESS REDES SOCIALES */
+#logo_facebook{height: 40px!important;}
+#logo_yotube{height: 40px!important;}
+
+
+/*		CLASS	*/
+
+.address{
+	color:44F60B;
+}
+.data_uni{
+color:black !important;
+
+text-decoration: none !important;
+text-align: left !important;
+}
+
+.data_horarios{
+color:black !important;
+
+float: none !important;
+text-align: left !important;
+}
+
+.data_redes{
+color: black !important;
+text-align: left !important;
+}
+
+.estilos_redes{
+text-decoration: none !important;
+/*float:left !important;*/
+text-align: left !important;
+}
+
+.logo_institucional{/*width: 70px;*/	height: 30px;}
+.logo_comit{ width: 150px !important; height: 150px !important;padding-right:20px !important;padding-left: 20px !important; }
+.logo_facebook{width: 12px !important; height: 12px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_instagram{width: 150px !important; height: 150px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_twitter{width: 30px !important; height: 30px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_youtube{width: 30px !important; height: 30px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_linkedin{width: 30px !important; height: 30px !important;padding-left: 5px !important;padding-right:5px !important;}
+.logo_telecom{width: 100px !important; height: 100px !important; clear: both !important; padding-top: 10px !important;}
+
+.data_1f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_2f{
+color:#000000!important;
+/*color:#333333*/;
+text-align: left!important;
+}
+.data_3f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_4f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_5f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_6f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_7f{
+color:#000000!important;
+/*color:#333333*/;
+border: 1px green solid !important;
+border-radius: 10px !important;
+}
+.data_8f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_9f{
+color:#000000!important;
+/*color:#333333*/;
+clear: both !important;
+}
+.data_10f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_f10 a:hover{
+text-decoration: none!important;
+color: #0000FF!important;
+}
+.data_11f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_12f{
+color:#000000!important;
+/*color:#333333*/;
+clear: both !important;
+clear:both !important;
+/*float: left !important;*/
+}
+.data_13f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_14f{
+color:#000000!important;
+/*color:#333333*/;
+}
+.data_add1{
+color:#000000!important;
+/*color:#333333*/;
+}
+
+.data_f8 li a img{clear: both !important;}
+
+.data_f9 li a img{clear: both !important;}
+
+.data_f10 li a img{float: left !important;}
+
+.data_f12 li a img{clear: both !important; }
+
+.data_f13 li a img{clear: both !important; }
+
+.data_add1 li a img{float: left !important;}
+
+
+.data_f12 img{
+padding-left:20px !important;
+display:block !important;
+/*float: left !important;
+display:block !important;
+margin:auto!important;*/
+}
+
+/*.facebook_CentroUni div ul li img a{float: left !important;}*/
+.estilos_redes div ul li img a{float: left !important;}
+
+
+.data_f14 li a img{float: left !important;}
+
+
+.data_f13 a{
+text-decoration: none !important;
+color: #0000FF!important;
+}
+.data_f14 a{
+text-decoration: none !important;
+color: #0000FF!important;
+}
+
+
+
+.navbar-inner{
+    /*height: 90px*/
+    min-height: 15px;
+    }
+.navbar .brand{
+    padding: 0 10px;
+}
+.navbar .nav > li > a {
+    padding: 20px 15px;
+    /*padding: 35px 15px;*/
+}
+.navbar .btn-navbar {
+    /*margin-right: 0px;*/
+    margin-top:15px;
+}
+.brand img{
+    margin-top: 5px
+}
+@media (max-width:768px) {
+    .brand img{
+        margin-bottom: 5px
+    }
+    .navbar .btn-navbar{
+        /*margin-right: -15px;*/
+    }
+    .navbar .nav > li > a {
+        padding: 10px 15px;
+    }
+
+
+
